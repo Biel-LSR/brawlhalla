@@ -1,3 +1,3 @@
 # brawlhalla
 ## Guia de combos 
-biel-lsr.github.io/brawlhalla/
+https://biel-lsr.github.io/brawlhalla/
